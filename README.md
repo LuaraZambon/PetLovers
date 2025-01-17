@@ -34,7 +34,7 @@ To view and run this project, you’ll need:
 ### Installation  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/pet-lovers.git
+   git clone https://github.com/LuaraZambon/pet-lovers.git
 2. Navigate to the project folder:
    ```bash
    cd pet-lovers
